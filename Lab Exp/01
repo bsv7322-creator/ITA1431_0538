@@ -1,0 +1,4 @@
+touch sample.txt
+rm sample.txt
+users
+tree
